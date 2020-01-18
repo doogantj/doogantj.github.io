@@ -1,16 +1,15 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: Who am I?
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+My name is Tyler Doogan. I try to do a lot of things and end up doing most of them poorly. Quick bullets that better describe me:
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+- I am awkwardly tall and lanky
+- I enjoy the company of cats
+- I am a GNC Engineer by day
+- I attempt to be a data scientist by night
+- Most importantly, I enjoy doing math and puzzles
 
-What else do you need?
-
-### my history
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+I'm not entirely sure what this page will soon become, other than a place to solve fivethirtyeight.com's riddler puzzles. For now it's basically just a complete rip off of Hector Pefo's page where he does the same thing but better.
